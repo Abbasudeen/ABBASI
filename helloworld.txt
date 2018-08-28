@@ -1,0 +1,10 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+class HelloWorld
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		System.out.print("Hello World");// your code goes here
+	}
+}
