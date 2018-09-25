@@ -1,9 +1,8 @@
-public class kn
+import java.util.Scanner;
+class NKN
 {
-	public static void main (String[] args) throws java.lang.Exception
-	{
-
-
+public static void main(String[] args)
+{
      int n,k;
        int[] sr; 
      int sum=0;
@@ -23,3 +22,4 @@ public class kn
      System.out.println(+sum);
      }
 }
+
