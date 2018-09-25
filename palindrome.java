@@ -17,11 +17,11 @@ public class PalindromeEx
           
         if(ans==temp)
           {
-          System.out.println("palindrom");
+          System.out.println("yes");
           }
         else
           {
-          System.out.println("Not Palindrome");
+          System.out.println("no");
           }
      }
 }
