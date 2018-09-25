@@ -3,16 +3,16 @@ public class Power
 {
   public static void main(String[] args) 
   {
-      int a,b,s=1;
+      int a,b,g=1;
       Scanner s=new Scanner (System.in);
       a=s.nextInt();
       b=s.nextInt();
      {
          for(int i=1;i<=b;i++)
 	      {
-            s=s*a;
+            g=g*a;
  	      }	    
      }
-    System.out.println(s);
+    System.out.println(g);
   } 
 }
